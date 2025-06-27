@@ -1,0 +1,15 @@
+{
+  "name": "Publicis Remote Application",
+  "short_name": "Job Apply",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Publicis Groupe job application portal",
+  "icons": [
+    {
+      "src": "Logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
